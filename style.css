@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+        background-color:rgb(58, 176, 255);
+    }
+
+    h1 {
+        color:rgb(0, 255, 179);
+        text-align: center;
+    }
+
+    footer {
+    border: 4px solid rgb(0, 255, 242);
+    background-color:rgb(0, 140, 255);
+    }
+
+    footer p {
+        background-color:rgb(0, 140, 255);
+        color:white;
+        border:4px solidrgb(0, 255, 242); 
+    }
+
+nav {
+      border: 5px solid LightCyan;
+      color:  Aquamarine;
+      padding:10px;
+      margin:10px;
+    }
+
+nav a{
+    color: Aquamarine;
+    text-decoration: none;
+    text-align:center ;
+}
+
+    .kek {
+    background-color: rgba(255, 0, 0, 0.719);
+}
+
+.lol {
+    border:3px solid rgb(0, 255, 179);
+    text-decoration:none;
+    margin: 2px;
+    padding:3px;
+    border-radius: 3px;
+    border-collapse: 3px;
+}
+
+.lil {
+    border:3px solid rgb(0, 255, 179);
+    text-decoration:none;
+    margin: 2px;
+    padding:3px;
+    border-radius: 3px;
+    border-collapse: 3px;
+}
